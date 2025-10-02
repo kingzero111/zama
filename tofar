@@ -1,0 +1,4 @@
+vecho "Some text" >> file1.txt
+git add file1.txt
+git commit -m "Update file1.txt"
+git push origin main
